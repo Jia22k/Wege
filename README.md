@@ -4,7 +4,8 @@ Welcome to Wege, a game of strategy and domination through the placement of land
 
 ![Wege Game Screenshot](Wege.jpeg)
 
-##Development 
+## Development 
+
 This project was an excellent opportunity to delve into the principles of object-oriented programming and interactive application development. Enhancements and optimizations are welcome. Please consider contributing if you have ideas for improvement.
 
 
