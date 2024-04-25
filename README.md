@@ -1,6 +1,6 @@
 # Wege Game
 
-Welcome to Wege, a game of strategy and domination through the placement of land and water cards on a grid. This application is my fourth project for my first computer science class, CSDS 132: Intro to Object-Oriented Programming in Java. The `WegeCard` and `WegeButton` classes were provided as part of the coursework, and I implemented the game logic to bring the static classes to life.
+Welcome to Wege, a game of strategy and domination through the placement of land and water cards on a grid. This application is my fourth project for my first computer science class, CSDS 132: Intro to Object-Oriented Programming in Java. The `WegeCard` and `WegeButton` classes were provided as part of the coursework, and I implemented the game logic to bring the static classes to life. </br>
 
 ![Wege Game Screenshot](Wege.jpeg)
 
